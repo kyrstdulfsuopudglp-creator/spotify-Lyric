@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Name": "Spotify Desktop Lyrics",
+        "Description": "Real-time Spotify track info and synchronized lyrics widget for KDE Plasma 6",
+        "Id": "com.spotify.lyrics.widget",
+        "Version": "1.0",
+        "Icon": "spotify",
+        "Category": "Multimedia"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
