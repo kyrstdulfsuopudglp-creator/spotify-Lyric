@@ -10,4 +10,4 @@ git clone https://github.com/kyrstdulfsuopudglp-creator/spotify-Lyric.git && cd 
 chmod +x install.sh
 ./install.sh
 ```
-
+## ДЕМО ВЕРСИЯ
